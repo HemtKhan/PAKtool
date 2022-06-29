@@ -13,7 +13,7 @@ pip install mechanize
 
 git clone https://github.com/HemtKhan/PAKtool
 
-cd PAKtool.py
+cd PAKtool
 
 python Paktool.py
 
