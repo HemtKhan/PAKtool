@@ -15,6 +15,6 @@ git clone https://github.com/HemtKhan/PAKtool
 
 cd PAKtool
 
-python Paktool.py
+python2 Paktool.py
 
 Passowrd: HEMAT
