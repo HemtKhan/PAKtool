@@ -11,8 +11,10 @@ pip install bs4
 
 pip install mechanize 
 
-git clone 
+git clone https://github.com/HemtKhan/PAKtool
 
-cd 
+cd PAKtool.py
 
-python  
+python Paktool.py
+
+Passowrd: HEMAT
